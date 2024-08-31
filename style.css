@@ -1,0 +1,5 @@
+.nav-link.active {
+    background-color: white !important; /* Keeps the background white */
+    border: 2px solid black !important; /* Adds a dark border */
+    color: black !important; /* Ensures the text is black */
+}
